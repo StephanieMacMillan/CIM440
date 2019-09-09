@@ -11,7 +11,7 @@ background("pink");
 
 function draw() {
   // put drawing code here
-  strokeWeight(1);
+  strokeWeight(0);
   fill("white");
 ellipse(250,400,250,250);
   ellipse(250,250,200,200); //body

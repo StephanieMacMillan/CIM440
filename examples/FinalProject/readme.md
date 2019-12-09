@@ -1,4 +1,5 @@
-# Lips of Every color
+# StephanieXDesign
 
-This project is intended to display my artwork as well
-as my ability to code. In this project you'll be able to change the color of the lip painting as well as move the mouse to change the shape of the lips.
+This project is intended to act as a logo reveal for my instagram account @stephaniexdesign. On this account I showcase my artwork and it acts as a digital portfolio. I wanted to incorporate a piece of my own artwork and apply my newly learend coding skills to make it come to life.
+
+
